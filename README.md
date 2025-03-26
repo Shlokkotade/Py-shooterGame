@@ -6,7 +6,7 @@
 
 PyShooter is a two-dimensional shooter game in which the player runs horizontally and fires at enemies.
 
-## Demo: https://www.youtube.com/watch?v=rg-49OTHZVY 
+
 
 https://user-images.githubusercontent.com/77569653/214920668-ef657089-b71f-43c8-8011-a202a09f5531.mp4
 
